@@ -1,0 +1,14 @@
+C:\Users\Elev\source\repos\Arv\Arv\bin\Debug\netcoreapp3.1\Arv.exe
+C:\Users\Elev\source\repos\Arv\Arv\bin\Debug\netcoreapp3.1\Arv.deps.json
+C:\Users\Elev\source\repos\Arv\Arv\bin\Debug\netcoreapp3.1\Arv.runtimeconfig.json
+C:\Users\Elev\source\repos\Arv\Arv\bin\Debug\netcoreapp3.1\Arv.runtimeconfig.dev.json
+C:\Users\Elev\source\repos\Arv\Arv\bin\Debug\netcoreapp3.1\Arv.dll
+C:\Users\Elev\source\repos\Arv\Arv\bin\Debug\netcoreapp3.1\Arv.pdb
+C:\Users\Elev\source\repos\Arv\Arv\obj\Debug\netcoreapp3.1\Arv.csproj.AssemblyReference.cache
+C:\Users\Elev\source\repos\Arv\Arv\obj\Debug\netcoreapp3.1\Arv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\source\repos\Arv\Arv\obj\Debug\netcoreapp3.1\Arv.AssemblyInfoInputs.cache
+C:\Users\Elev\source\repos\Arv\Arv\obj\Debug\netcoreapp3.1\Arv.AssemblyInfo.cs
+C:\Users\Elev\source\repos\Arv\Arv\obj\Debug\netcoreapp3.1\Arv.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\Arv\Arv\obj\Debug\netcoreapp3.1\Arv.dll
+C:\Users\Elev\source\repos\Arv\Arv\obj\Debug\netcoreapp3.1\Arv.pdb
+C:\Users\Elev\source\repos\Arv\Arv\obj\Debug\netcoreapp3.1\Arv.genruntimeconfig.cache

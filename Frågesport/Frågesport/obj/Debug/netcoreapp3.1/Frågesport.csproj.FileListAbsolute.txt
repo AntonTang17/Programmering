@@ -1,0 +1,14 @@
+C:\Users\Elev\Desktop\Programering\Frågesport\Frågesport\obj\Debug\netcoreapp3.1\Frågesport.csproj.AssemblyReference.cache
+C:\Users\Elev\Desktop\Programering\Frågesport\Frågesport\obj\Debug\netcoreapp3.1\Frågesport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\Desktop\Programering\Frågesport\Frågesport\obj\Debug\netcoreapp3.1\Frågesport.AssemblyInfoInputs.cache
+C:\Users\Elev\Desktop\Programering\Frågesport\Frågesport\obj\Debug\netcoreapp3.1\Frågesport.AssemblyInfo.cs
+C:\Users\Elev\Desktop\Programering\Frågesport\Frågesport\obj\Debug\netcoreapp3.1\Frågesport.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Desktop\Programering\Frågesport\Frågesport\bin\Debug\netcoreapp3.1\Frågesport.exe
+C:\Users\Elev\Desktop\Programering\Frågesport\Frågesport\bin\Debug\netcoreapp3.1\Frågesport.deps.json
+C:\Users\Elev\Desktop\Programering\Frågesport\Frågesport\bin\Debug\netcoreapp3.1\Frågesport.runtimeconfig.json
+C:\Users\Elev\Desktop\Programering\Frågesport\Frågesport\bin\Debug\netcoreapp3.1\Frågesport.runtimeconfig.dev.json
+C:\Users\Elev\Desktop\Programering\Frågesport\Frågesport\bin\Debug\netcoreapp3.1\Frågesport.dll
+C:\Users\Elev\Desktop\Programering\Frågesport\Frågesport\bin\Debug\netcoreapp3.1\Frågesport.pdb
+C:\Users\Elev\Desktop\Programering\Frågesport\Frågesport\obj\Debug\netcoreapp3.1\Frågesport.dll
+C:\Users\Elev\Desktop\Programering\Frågesport\Frågesport\obj\Debug\netcoreapp3.1\Frågesport.pdb
+C:\Users\Elev\Desktop\Programering\Frågesport\Frågesport\obj\Debug\netcoreapp3.1\Frågesport.genruntimeconfig.cache

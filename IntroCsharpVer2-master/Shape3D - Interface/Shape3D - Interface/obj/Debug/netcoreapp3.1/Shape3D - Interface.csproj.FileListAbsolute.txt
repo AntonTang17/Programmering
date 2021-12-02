@@ -1,0 +1,14 @@
+C:\Users\Elev\source\repos\Shape3D - Interface\Shape3D - Interface\obj\Debug\netcoreapp3.1\Shape3D - Interface.csproj.AssemblyReference.cache
+C:\Users\Elev\source\repos\Shape3D - Interface\Shape3D - Interface\obj\Debug\netcoreapp3.1\Shape3D - Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\source\repos\Shape3D - Interface\Shape3D - Interface\obj\Debug\netcoreapp3.1\Shape3D - Interface.AssemblyInfoInputs.cache
+C:\Users\Elev\source\repos\Shape3D - Interface\Shape3D - Interface\obj\Debug\netcoreapp3.1\Shape3D - Interface.AssemblyInfo.cs
+C:\Users\Elev\source\repos\Shape3D - Interface\Shape3D - Interface\obj\Debug\netcoreapp3.1\Shape3D - Interface.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\Shape3D - Interface\Shape3D - Interface\bin\Debug\netcoreapp3.1\Shape3D - Interface.exe
+C:\Users\Elev\source\repos\Shape3D - Interface\Shape3D - Interface\bin\Debug\netcoreapp3.1\Shape3D - Interface.deps.json
+C:\Users\Elev\source\repos\Shape3D - Interface\Shape3D - Interface\bin\Debug\netcoreapp3.1\Shape3D - Interface.runtimeconfig.json
+C:\Users\Elev\source\repos\Shape3D - Interface\Shape3D - Interface\bin\Debug\netcoreapp3.1\Shape3D - Interface.runtimeconfig.dev.json
+C:\Users\Elev\source\repos\Shape3D - Interface\Shape3D - Interface\bin\Debug\netcoreapp3.1\Shape3D - Interface.dll
+C:\Users\Elev\source\repos\Shape3D - Interface\Shape3D - Interface\bin\Debug\netcoreapp3.1\Shape3D - Interface.pdb
+C:\Users\Elev\source\repos\Shape3D - Interface\Shape3D - Interface\obj\Debug\netcoreapp3.1\Shape3D - Interface.dll
+C:\Users\Elev\source\repos\Shape3D - Interface\Shape3D - Interface\obj\Debug\netcoreapp3.1\Shape3D - Interface.pdb
+C:\Users\Elev\source\repos\Shape3D - Interface\Shape3D - Interface\obj\Debug\netcoreapp3.1\Shape3D - Interface.genruntimeconfig.cache
