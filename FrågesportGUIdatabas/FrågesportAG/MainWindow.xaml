@@ -38,11 +38,18 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <TextBlock Name="qOne" FontSize="30" Text="Fråga" FontFamily="SimSun" Foreground="#FFF9F6F6" TextAlignment="Center" Visibility="Hidden" Margin="45" TextWrapping="WrapWithOverflow"/>
-        <TextBlock Name="qMulti" FontSize="30" Foreground="#FFF9F6F6" FontFamily="SimSun" Text="Alternativ" TextAlignment="Center" Visibility="Hidden" Margin="10"/>
-        <TextBox Name="svar" FontSize="20"  FontFamily="SimSun" TextAlignment="Center" Foreground="#FFF9F6F6" Visibility="Hidden" Margin="40" KeyDown="enterDownHandler" Background="#FFDE1313" BorderBrush="Black"/>
-        <TextBlock Name="fel" FontSize="30" Text="Fel svar, försök igen!" TextAlignment="Center" Visibility="Hidden" Margin="20" Foreground="#FFF9F6F6" FontFamily="SimSun"/>
-        <Button Name="buttonSkip" Content="Hoppa över" FontSize="20" FontFamily="SimSun" Foreground="#FFF9F6F6" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="20" Click="buttonSkip_Click" >
+        <TextBlock Name="qOne" FontSize="30" Text="Fråga" FontFamily="SimSun" Foreground="#FFF9F6F6" TextAlignment="Center" Visibility="collapsed" Margin="45" TextWrapping="WrapWithOverflow"/>
+        <TextBlock Name="qMulti" FontSize="30" Foreground="#FFF9F6F6" FontFamily="SimSun" Text="Alternativ" TextAlignment="Center" Visibility="collapsed" Margin="10"/>
+        <TextBox Name="svar" FontSize="20"  FontFamily="SimSun" TextAlignment="Center" Foreground="#FFF9F6F6" Visibility="collapsed" Margin="40" KeyDown="enterDownHandler" Background="#FFDE1313" BorderBrush="Black"/>
+        <TextBlock Name="fel" FontSize="30" Text="Fel svar, försök igen!" TextAlignment="Center" Visibility="collapsed" Margin="20" Foreground="#FFF9F6F6" FontFamily="SimSun"/>
+
+        <ListBox Name="Lista" Visibility="Collapsed" RenderTransformOrigin="0.511,-3.174"  FontSize="20" Foreground="#FFF9F6F6" FontFamily="SimSun" Background="#FFDE1313" BorderBrush="Black" SelectionChanged="Lista_SelectionChanged">
+            <ListBoxItem Name="Alt1">Alternativ 1</ListBoxItem>
+            <ListBoxItem Name="Alt2">Alternativ 2</ListBoxItem>
+            <ListBoxItem Name="Alt3"> Alternativ 3</ListBoxItem>
+        </ListBox>
+
+        <Button Name="buttonSkip" Content="Hoppa över" FontSize="20" FontFamily="SimSun" Foreground="#FFF9F6F6" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="20" Click="buttonSkip_Click" Visibility="Collapsed" >
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <LinearGradientBrush.RelativeTransform>
@@ -60,5 +67,21 @@
         </Button>
         <TextBlock Name="klar" Text="Grattis!" FontSize="30" FontFamily="SimSun" TextAlignment="Center" Foreground="#FFF9F6F6" Visibility="Collapsed" Margin="40" />
         <TextBlock Name="antal" Text="Du fick X av Y antal rätt" FontSize="30" FontFamily="SimSun" TextAlignment="Center" Foreground="#FFF9F6F6" Visibility="Collapsed" Margin="40" />
+        <Button Name="admin" Content="Admin" FontSize="20" FontFamily="SimSun" Foreground="#FFF9F6F6" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="20,170,20,20" Click="admin_Click" >
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <LinearGradientBrush.RelativeTransform>
+                        <TransformGroup>
+                            <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                            <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                            <RotateTransform Angle="270" CenterY="0.5" CenterX="0.5"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </LinearGradientBrush.RelativeTransform>
+                    <GradientStop Color="#FFF10909"/>
+                    <GradientStop Color="#FF060606" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
     </StackPanel>
 </Window>

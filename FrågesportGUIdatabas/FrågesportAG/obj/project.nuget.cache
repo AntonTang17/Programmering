@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "hNK+4U5AnrdIyZK9WnJkkNpFpB5x7JHFHv6dqZyxYD2IofVtK7EBNGKp9l1S+AhBVCHNB5SXeVY9fXbAwzhSzg==",
+  "dgSpecHash": "YwhRMTdpy4V+VyaDYnXb4SCkvNTXEGZVETK2VXMtKkUyoBfTruJxwHv4RIrwL9GmeJbEHS9iTv02bdmgr0D3GA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Elev\\Desktop\\Programering\\FrågesportGUIdatabas\\FrågesportAG\\FrågesportAG.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Elev\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
-    "C:\\Users\\Elev\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\microsoft.data.sqlite\\5.0.1\\microsoft.data.sqlite.5.0.1.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.1\\microsoft.data.sqlite.core.5.0.1.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
     "C:\\Users\\Elev\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []

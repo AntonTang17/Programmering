@@ -33,10 +33,9 @@ namespace FrågesportAG
             //questions.Add(new MultiAnswer("Vilken stad är Sveriges huvudstad?", flera));
             //questions.Add(new MultiAnswer("Vad är rätt svar?", flera2));
 
-            DatabaseHandler databaseHandler = new DatabaseHandler();
-
-        
-            questions = databaseHandler.GetQusetions();
+            DatabaseHandler databaseHandler = new DatabaseHandler();        
+            questions = databaseHandler.GetQusetions();            
+            questions.AddRange(databaseHandler.GetQusetions2());
 
 
 

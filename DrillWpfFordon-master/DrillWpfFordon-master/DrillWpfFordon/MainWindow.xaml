@@ -1,0 +1,19 @@
+﻿<Window x:Class="DrillWpfFordon.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DrillWpfFordon"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="400">
+    <StackPanel>
+        <TextBlock Text="Modell"/>
+        <TextBox Name="RegistrationNumber" />
+        <TextBlock Text="Tid 0-100kmh (s)" />
+        <TextBox Name="Owner" />
+        <Button Name="Save" Content="Spara" Click="Save_Click"/>
+        <TextBox Name="Vehicles" Text="Visa alla fordon här. " />
+
+
+    </StackPanel>
+</Window>

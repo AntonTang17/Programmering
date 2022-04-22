@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elev\\Desktop\\Programering\\FrågesportAG\\FrågesportAG\\FrågesportAG.csproj": {}
+    "C:\\Users\\Elev\\Desktop\\Programering\\FrågesportGUI\\FrågesportAG\\FrågesportAG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elev\\Desktop\\Programering\\FrågesportAG\\FrågesportAG\\FrågesportAG.csproj": {
+    "C:\\Users\\Elev\\Desktop\\Programering\\FrågesportGUI\\FrågesportAG\\FrågesportAG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elev\\Desktop\\Programering\\FrågesportAG\\FrågesportAG\\FrågesportAG.csproj",
+        "projectUniqueName": "C:\\Users\\Elev\\Desktop\\Programering\\FrågesportGUI\\FrågesportAG\\FrågesportAG.csproj",
         "projectName": "FrågesportAG",
-        "projectPath": "C:\\Users\\Elev\\Desktop\\Programering\\FrågesportAG\\FrågesportAG\\FrågesportAG.csproj",
+        "projectPath": "C:\\Users\\Elev\\Desktop\\Programering\\FrågesportGUI\\FrågesportAG\\FrågesportAG.csproj",
         "packagesPath": "C:\\Users\\Elev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elev\\Desktop\\Programering\\FrågesportAG\\FrågesportAG\\obj\\",
+        "outputPath": "C:\\Users\\Elev\\Desktop\\Programering\\FrågesportGUI\\FrågesportAG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
